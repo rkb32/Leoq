@@ -1,0 +1,10 @@
+torch 
+torchvision 
+matplotlib 
+numpy 
+pandas 
+seaborn 
+gym 
+gymnasium 
+tensorboard 
+scikit-learn 
