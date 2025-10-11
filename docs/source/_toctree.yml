@@ -35,6 +35,16 @@
     title: π₀.₅ (Pi05)
   - local: libero
     title: Using Libero
+  - local: policy_act_README
+    title: ACT Policy
+  - local: policy_diffusion_README
+    title: Diffusion Policy
+  - local: policy_smolvla_README
+    title: SmolVLA Policy
+  - local: policy_tdmpc_README
+    title: TDMPC Policy
+  - local: policy_vqbet_README
+    title: VQ-BET Policy
   title: "Policies"
 - sections:
   - local: introduction_processors
